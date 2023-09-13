@@ -11,7 +11,7 @@ public class Switch
         System.out.print("Enter the num : ");
         num = input.nextByte();
 
-        switch (num)
+        switch(num)
         {
             case 1 :
                 System.out.println("January");
